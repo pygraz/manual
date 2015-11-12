@@ -65,3 +65,19 @@ to learn.
 Here we simply meet at a predetermined restaurant. A table is reserved 2 days in
 advance and we use Meetup.com to get a rought estimate on for how many people we
 have to make the reservation.
+
+
+## Event Announcements
+
+Scheduled events are currently announced by Horst Gutmann (@zerok) which
+involves the following steps:
+
+1. Creation of a new meetup entry on pygraz.org with information about what
+   format will be used.
+2. Creation of a meetup.com event and public announcement of that. This should
+   always include a link back to pygraz.org as this is considered the canonical
+   information point.
+3. Advertisment of the event on Twitter, Google+, and the mailinglist.
+
+The announcement should be made at least 2 weeks before the actual event,
+ideally earlier.
