@@ -72,12 +72,16 @@ have to make the reservation.
 Scheduled events are currently announced by Horst Gutmann (@zerok) which
 involves the following steps:
 
-1. Creation of a new meetup entry on pygraz.org with information about what
+1. Check the [realraum calendar][] to see if the preferred date is still
+   available and create an event if so. (only for non-Stammtisch events)
+2. Creation of a new meetup entry on pygraz.org with information about what
    format will be used.
-2. Creation of a meetup.com event and public announcement of that. This should
+3. Creation of a meetup.com event and public announcement of that. This should
    always include a link back to pygraz.org as this is considered the canonical
    information point.
-3. Advertisment of the event on Twitter, Google+, and the mailinglist.
+4. Advertisment of the event on Twitter and the mailinglist.
 
 The announcement should be made at least 2 weeks before the actual event,
 ideally earlier.
+
+[realraum calendar]: https://grical.realraum.at/s/?query=!realraum&view=calendars
