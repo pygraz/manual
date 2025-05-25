@@ -1,5 +1,9 @@
 # PyGraz Manual
 
+> [!NOTE]  
+> This manual is outdated and left here for history purpose. For the most up-tp-date
+> information, visit <https://pygraz.org>.
+
 With this manual we want to document how the Python User Group Graz is organized
 and how it operates. In here you will learn about the formats we use for our
 meetups and how each meetup is planned.
